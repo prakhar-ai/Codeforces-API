@@ -26,3 +26,4 @@ An unofficial Codeforces API to fetch contest and problem details. Built using [
 }
 ```
 View the [OpenAPI Specification](https://4y2rzj.deta.dev/openapi.json)
+View [Documentation](https://4y2rzj.deta.dev/docs)
