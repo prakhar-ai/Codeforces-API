@@ -6,7 +6,7 @@
   contest_id: integer,
   contest_name: string,
   contest_link: string,
-  problems: List
+  problems: list
   [{
     problem_id: string
     contest_id: integer
