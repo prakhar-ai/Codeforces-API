@@ -1,7 +1,8 @@
 # Codeforces-API
 
 
-`{
+```
+{
 contest_id:	integer
 contest_name:	string
 contest_link: string
@@ -14,4 +15,5 @@ problems: List
 }]
 editorial: string
 announcement:	string 
-}`
+}
+```
