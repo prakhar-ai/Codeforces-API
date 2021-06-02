@@ -1,4 +1,4 @@
-# Codeforces-API
+# Codeforces API
 
 #### contest_response:
 
