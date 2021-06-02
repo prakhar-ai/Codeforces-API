@@ -17,3 +17,4 @@
   announcement:	string,
 }
 ```
+View the [OpenAPI specification](https://4y2rzj.deta.dev/openapi.json)
