@@ -44,11 +44,6 @@ async def contest_data(contest_id: int):
     results =  codeforces_contest_wrapper.parse_contest(CONTEST_LINK + str(contest_id))
     return results
 
-
-"""@app.get("/items/")
-async def read_item(skip: int = 0, limit: int = 10):
-    return fake_items_db[skip : skip + limit]"""
-
 @app.get("/problems/{contest_id}/{problem_id}", response_model=problem_response)
 async def problem_data(contest_id: int,problem_id: str):
     
