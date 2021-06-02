@@ -1,7 +1,7 @@
 # Codeforces API
 
 
-Built using [FastAPI](https://github.com/tiangolo/fastapi). Hosted using [Deta](https://www.deta.sh/) at https://4y2rzj.deta.dev/
+An unofficial Codeforces API to fetch contest and problem details. Built using [FastAPI](https://github.com/tiangolo/fastapi). Hosted using [Deta](https://www.deta.sh/) at https://4y2rzj.deta.dev/
 
 #### contest_response:
 
