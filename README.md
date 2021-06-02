@@ -1,6 +1,8 @@
 # Codeforces-API
 
-`{
+`
+
+{
    "openapi":"3.0.2",
    "info":{
       "title":"Codeforces API",
