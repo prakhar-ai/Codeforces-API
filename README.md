@@ -1,5 +1,8 @@
 # Codeforces API
 
+
+Built using [FastAPI](https://github.com/tiangolo/fastapi). A [Deta](https://www.deta.sh/) micro is hosted at https://4y2rzj.deta.dev/
+
 #### contest_response:
 
 ```
